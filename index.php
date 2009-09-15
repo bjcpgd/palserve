@@ -12,7 +12,7 @@ include('functions.php');
 include('adodb/adodb.inc.php');
 $server = 'cias-sql.rit.edu';
 $user = 'root';
-$pwd = 'Gibm3Acces$';
+$pwd = '';
 
 //Testing Databaase
 #$server = '10.0.2.2';
