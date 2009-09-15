@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/print/!svn/ver/9/adodb/session
+END
+adodb-compress-gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/print/!svn/ver/9/adodb/session/adodb-compress-gzip.php
+END
+adodb-sessions.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/print/!svn/ver/9/adodb/session/adodb-sessions.mysql.sql
+END
+adodb-sessions.oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/print/!svn/ver/9/adodb/session/adodb-sessions.oracle.sql
+END
+crypt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/print/!svn/ver/9/adodb/session/crypt.inc.php
+END
+adodb-session.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/print/!svn/ver/9/adodb/session/adodb-session.php
+END
+adodb-cryptsession.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/print/!svn/ver/9/adodb/session/adodb-cryptsession.php
+END
+adodb-sess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/print/!svn/ver/9/adodb/session/adodb-sess.txt
+END
+adodb-encrypt-md5.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/print/!svn/ver/9/adodb/session/adodb-encrypt-md5.php
+END
+adodb-encrypt-secret.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/print/!svn/ver/9/adodb/session/adodb-encrypt-secret.php
+END
+adodb-compress-bzip2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/print/!svn/ver/9/adodb/session/adodb-compress-bzip2.php
+END
+adodb-encrypt-mcrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/print/!svn/ver/9/adodb/session/adodb-encrypt-mcrypt.php
+END
+adodb-session-clob.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/print/!svn/ver/9/adodb/session/adodb-session-clob.php
+END
+adodb-sessions.oracle.clob.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/print/!svn/ver/9/adodb/session/adodb-sessions.oracle.clob.sql
+END

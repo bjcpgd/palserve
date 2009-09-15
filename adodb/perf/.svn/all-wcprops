@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/print/!svn/ver/9/adodb/perf
+END
+perf-db2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/print/!svn/ver/9/adodb/perf/perf-db2.inc.php
+END
+perf-informix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/print/!svn/ver/9/adodb/perf/perf-informix.inc.php
+END
+perf-mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/print/!svn/ver/9/adodb/perf/perf-mssql.inc.php
+END
+perf-oci8.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/print/!svn/ver/9/adodb/perf/perf-oci8.inc.php
+END
+perf-mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/print/!svn/ver/9/adodb/perf/perf-mysql.inc.php
+END
+perf-postgres.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/print/!svn/ver/9/adodb/perf/perf-postgres.inc.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/print/!svn/ver/134/views/users
+END
+new.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/print/!svn/ver/9/views/users/new.php
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/print/!svn/ver/9/views/users/list.php
+END
+newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/print/!svn/ver/127/views/users/newsletter.php
+END
+profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/print/!svn/ver/134/views/users/profile.php
+END
+show.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/print/!svn/ver/9/views/users/show.php
+END
+forgot_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/print/!svn/ver/21/views/users/forgot_password.php
+END
+password.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/print/!svn/ver/27/views/users/password.php
+END
+password_email_sent.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/print/!svn/ver/21/views/users/password_email_sent.php
+END
+reset_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/print/!svn/ver/83/views/users/reset_password.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/print/!svn/ver/9/views/users/edit.php
+END
+password_done.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/print/!svn/ver/121/views/users/password_done.php
+END
+forgot_password.eml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/print/!svn/ver/21/views/users/forgot_password.eml
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/print/!svn/ver/108/views/users/login.php
+END

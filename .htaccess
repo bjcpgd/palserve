@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /~bjcpgd/palserve
+#RewriteBase /~bjcpgd/print
+RewriteRule ^([a-z0-9_-]+)/*([a-z0-9_-\w]*)/*([a-z0-9_-\w]*)/*([a-z0-9_-\w]*)$ ?controller=$1&action=$2&id=$3&arg1=$4 [L,NC]
+

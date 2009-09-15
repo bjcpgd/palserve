@@ -1,0 +1,70 @@
+<?php global $baseurl;?>
+<?$_SESSION['baseurl'] = $baseurl?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<head>
+	<title>Printing Industry Center/ADMIN</title>
+	<?=stylesheet('admin','screen')?>
+	<script src="<?=$baseurl?>javascripts/prototype.js" type="text/javascript"></script>
+	<script src="<?=$baseurl?>javascripts/scriptaculous.js" type="text/javascript"></script>
+
+	<script type="text/javascript" src="<?=$baseurl?>fckeditor/fckeditor.js"></script>
+	<script type="text/javascript" src="<?=$baseurl?>fckeditor/fckconfig.js"></script>
+
+	
+</head>
+<body>
+	<div id='header'>
+	Printing Industry Center/ADMIN
+	<a href='<?=$baseurl?>'>View the site</a>
+	</div>
+	<div id='top_nav'>
+	
+			<li><a href='<?=$baseurl?>admin/pages_list'>Manage <strong>Pages</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/news_list'>Manage <strong>News</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/events_list'>Manage <strong>Events</strong></li>
+			<li><a href='<?=$baseurl?>admin/research_area'>Manage <strong>Areas</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/research_authors'>Manage <strong>Authors</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/research_list'>Manage <strong>Research</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/publication_list'>Manage <strong>Publications</strong></a></li>
+			<li><a href='<?=$baseurl?>admin/users_list'>Manage <strong>Users</strong></a></li>
+	
+	</div>
+	
+	<div style='clear: both;'></div>
+	
+	<div id='admin_content'>
+		<?
+		global $error;
+		if($error) {
+			echo "<div class='error'>";
+			echo $error;
+			echo "</div>";
+		}
+		
+		global $status;
+		if($status) {
+			echo "<div class='status'>";
+			echo $status;
+			echo "</div>";
+		}
+		
+		?>
+		<?=yield();?>
+	</div>
+	
+	
+		<script>
+
+			var oFCKeditor = new FCKeditor( 'content' ) ;
+			oFCKeditor.BasePath = '<?=$baseurl?>fckeditor/' ;
+			oFCKeditor.Height = 500;
+			if($('content')) {
+				oFCKeditor.ReplaceTextarea() ;
+			}
+
+		</script>
+</body>
+</html>

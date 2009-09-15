@@ -1,0 +1,121 @@
+body {
+	background-color: #f1f1f1;
+	color: #333333;
+	font-family: arial;
+	margin: 0;
+}
+
+a {
+	color: #3F3F3F;
+	text-decoration: underline;
+}
+
+.admin_sub_button{
+	width: 114px;
+	height: 23px;
+	background-image: url('../images/admin_sub_button.gif');
+	background-repeat: no-repeat;
+	color: #DDD;
+	padding-left: 8px;
+	padding-top: 4px;
+	text-decoration: none;
+	float: left;
+	text-transform: capitalize;
+	font-size: 11px;
+}
+
+.admin_sub_button:hover {
+	color: #FFF;
+}
+
+#header {
+	background-color: black;
+	font-size: 12px;
+	color: #CCC;
+	padding: 2px;
+	padding-left: 10px;
+	margin: 0;
+}
+
+#header a {
+	color: #CCC;
+}
+
+#top_nav {
+	height: 41px;
+	font-size: 12px;
+	color: #333333;
+	width: 100%;
+	background-image: url('../images/admin_button.gif');
+	background-repeat: repeat-x;
+	float: left;
+}
+
+#top_nav li {
+	height: 41px;
+	margin: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	list-style-type: none;
+	display: block;
+	float: left;
+	padding-top: 12px;
+	text-transform: uppercase;
+	font-size: 10px;
+
+}
+
+#top_nav strong {
+	text-transform: uppercase;
+	font-size: 12px;
+	padding-top: 14px;
+}
+
+#top_nav li:hover {
+	height: 41px;
+	background-image: url('../images/admin_button_over.gif');
+		background-repeat: repeat-x;
+}
+
+#top_nav a {
+	height: 41px;
+	width: 100%;
+	text-decoration: none;
+}
+
+#admin_content {
+	background-color: #f1f1f1;
+	margin: 0;
+	font-size: 10pt;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	padding: 10px;
+}
+
+#admin_content table {
+	border: 1px solid black;
+}
+
+#admin_content td {
+	padding: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-bottom: 1px solid #939393;
+	font-size: 12px;
+}
+
+#admin_content th {
+	text-align: left;
+	padding: 2px;
+	border-bottom: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	color: #666;
+}
+.alt0 {
+	background-color: #E2E5FF;
+
+}
+
+.alt1 {
+	background-color: #FFF;
+	
+}
